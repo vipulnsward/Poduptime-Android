@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Poduptime_AndroidActivity!</string>
+    <string name="app_name">Diaspora Poduptime</string>
+    <string name="pickpod">Pick a Pod</string>
+    <string name="diaspora">Diaspora is a the Social Network that puts you in control of your information. You decide what you\'d like to share, and with whom. You retain full ownership of all your information, including friends list, messages, photos and profile details. Share what you want, with who you want. Diaspora uses a distributed model and you need to find a \'pod\' for your account.</string>
+
+</resources>
